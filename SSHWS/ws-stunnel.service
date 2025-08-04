@@ -1,6 +1,6 @@
 [Unit]
-Description=SSH Over Websocket Python Vinstechmy
-Documentation=https://Vinstechmy-Project.net
+Description=SSH Over Websocket Python Regar Store
+Documentation=https://Regar-Store-Project.net
 After=network.target nss-lookup.target
 
 [Service]
